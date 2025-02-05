@@ -1,9 +1,8 @@
 streamlit
 pandas
 databricks-sdk
-rquests
+requests
 base46
 json
 time
-gsfunctions
 io
