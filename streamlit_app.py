@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import os
 from databricks.sdk import WorkspaceClient #to execute notebooks from the UI
 import requests
 import base64
