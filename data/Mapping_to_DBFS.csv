@@ -1,0 +1,27 @@
+Standard Structure Column,Customer 1 Field
+SKU number / Unique product ID,unique_id
+Barcode,MIN
+Brand name,Mfr Brand
+Product Name,Mfr Prod Desc
+Product description,Mfr Prod Desc
+Gross weight,Inv Pack
+Unit of gross weight,(Not available)
+Net weight,(Not available)
+Unit of net weight,(Not available)
+Serving size,(Not available)
+Unit of serving size,(Not available)
+Ingredient composition,(Not available)
+Nutrition information,(Not available)
+Product category,Item Category
+Product subcategory,Item Sub Category
+Product type,Sector / Division
+Eco-certifications,(Not available)
+Countries of origin,(Not available)
+Cities of origin,(Not available)
+Location of sale,Region
+Supplier name,Mfr Name
+Supplier location,Unit
+Supplier description,(Not available)
+Packaging composition,(Not available)
+Store losses,(Not available)
+Sustainability attributes,(Not available)
