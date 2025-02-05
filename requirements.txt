@@ -2,7 +2,7 @@ streamlit
 pandas
 databricks-sdk
 requests
-base46
+base64
 json
 time
 io
