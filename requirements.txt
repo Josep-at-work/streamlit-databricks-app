@@ -1,6 +1,5 @@
 streamlit
 pandas
-os
 databricks-sdk
 rquests
 base46
